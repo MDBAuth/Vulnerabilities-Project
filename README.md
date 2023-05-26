@@ -14,5 +14,13 @@ Indicators are not scored absolutely but assigned to rank categories from better
 The results of the condition, stress and vulnerability assessment can be presented in two ways: spatially as a map or temporally in a table. The spatial presentation allows visual comparisons of different areas in the Basin at a single point in time. The temporal presentation of results allows visual comparison of a single spatial unit across multiple years.
 A series of Jupyter notebooks has been developed that contains the method and would allow for annual assessment of vulnerability for waterbirds and native vegetation with available input data.
 
-
 Hale, J., Brooks, S., Campbell, C. and McGinness, H. (2023) Assessing Vulnerability for use in Determining Basin-scale Environmental Watering Priorities. A Report to the Commonwealth Environmental Water Office, Canberra.
+
+# Included in this repositories
+* BWSVulnerability Python Environment.txt -
+* MDBA Tree Stand Condition Tool Rasters.txt -
+* Normalized Difference Vegetation Index.txt -
+* bws_vulnerability.ipynb -
+* wit_metrics.ipynb -
+* workers.py -
+
