@@ -1,4 +1,6 @@
-# Executive summary 
+# Assessing Vulnerability for use in Determining Basin-scale Environmental Watering Priorities
+
+## Executive summary 
 The planning and prioritisation of environmental water is a key step to achieving the long-term environmental outcomes of the Basin-wide environmental watering strategy. The method for determining Basin annual environmental watering priorities is constantly improving and aims to take into account a wide range of factors including vulnerability of ecosystems and the biota that depend on them. The availability of Basin-wide data, particularly from remote sensing has increased dramatically in the past few years and represents an opportunity to develop and implement a systematic approach to identifying vulnerable ecosystems and biota. This project developed and tested a method for assessing vulnerability for two of the four BWS themes, native vegetation, and waterbirds. The specific objectives of the project were to:
 
 *	Develop a GIS based method for assessing Basin-scale vulnerability for two thematic areas of the Basin-wide environmental watering strategy (native vegetation and waterbirds). The method must be in a format that is repeatable and can be routinely updated by MDBA agency staff as part of business-as-usual operations.
@@ -16,11 +18,12 @@ A series of Jupyter notebooks has been developed that contains the method and wo
 
 Hale, J., Brooks, S., Campbell, C. and McGinness, H. (2023) Assessing Vulnerability for use in Determining Basin-scale Environmental Watering Priorities. A Report to the Commonwealth Environmental Water Office, Canberra.
 
-# Included in this repositories
-* BWSVulnerability Python Environment.txt -
-* MDBA Tree Stand Condition Tool Rasters.txt -
-* Normalized Difference Vegetation Index.txt -
-* bws_vulnerability.ipynb -
-* wit_metrics.ipynb -
-* workers.py -
+# Included in this repository
+* BWSVulnerability Python Environment.txt - details the python packages and version numbers needed to run the project code
+* MDBA Tree Stand Condition Tool Rasters.txt - Google Earth Engine code to extract Stand condition tool rasters
+* Normalized Difference Vegetation Index.txt - Google Earth Engine code to extract Normalized Difference Vegetation Index rasters 
+* bws_vulnerability.ipynb - Main python notebook for final data processing to produce outputs
+* wit_metrics.ipynb - Python notebook for calculating metrics on the Wetland insight tool data
+* workers.py - python script of metric calculation function setup for multiprocessing
+
 
