@@ -15,6 +15,7 @@ Priorities for environmental water will require consideration of a variety of fa
 A series of Jupyter notebooks, published within this repository, have been developed that contain the method that would allow for annual assessment of vulnerability for waterbirds and native vegetation. The data associated with this project are avaliable on request from the MDBA at https://www.mdba.gov.au/publications/maps-spatial-data/geospatial-data-services-request-form.
 
 For more information see: Commonwealth of Australia 2023, _Assessing Vulnerability for use in Determining Basin-scale Environmental Watering Priorities_, Canberra. CC BY 4.0.
+https://www.dcceew.gov.au/sites/default/files/documents/assessing-vulnerability-use-determining-basin-scale-environmental-watering-priorities.pdf
 
 # Included in this repository
 * BWSVulnerability Python Environment.txt - details the python packages and version numbers needed to run the project code
